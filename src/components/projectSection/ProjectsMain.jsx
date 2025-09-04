@@ -30,11 +30,11 @@ const projects = [
     link: "https://www.dreamzil.in",
   },
   {
-    name: "Bank of Luck",
+    name: "Feastly",
     year: "May2024",
     align: "left",
     image: projectImg4,
-    link: "https://balaji12695.github.io/Dewi/",
+    link: "https://balaji12695.github.io/Feastly/",
   },
 ]
 
