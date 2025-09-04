@@ -4,7 +4,7 @@ import SingleProject from './SingleProject'
 import projectImg1 from '../../assets/website-img-1.jpg'
 import projectImg2 from '../../assets/website-img-2.jpg'
 import projectImg3 from '../../assets/website-img-3.jpg'
-import projectImg4 from '../../assets/website-img-1.jpg'
+import projectImg4 from '../../assets/website-img-4.jpg'
 import { motion } from "framer-motion";
 import { fadeIn } from "../../framerMotion/variants";
 
